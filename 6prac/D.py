@@ -2,9 +2,9 @@ import random
 
 coin = ['О', 'Р']
 
-attempts = 0
-cnt = 1
-prev = -1
+attempts :int = 0
+cnt :int = 1
+prev :int = -1
 
 while cnt != 3:
     current = random.randint(0, 1)
