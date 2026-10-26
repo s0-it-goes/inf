@@ -1,7 +1,7 @@
 n :int = int(input())
 
-current = []
-max = []
+current :list = []
+max :list = []
 
 print("Введите сколько человек в комнате и вместительность")
 while n > 0:

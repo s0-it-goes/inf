@@ -1,4 +1,4 @@
-n = int(input())
+n :int = int(input())
 
 arr = []
 
