@@ -17,5 +17,5 @@ while cnt != 3:
     print(coin[current], end = " ")
 
     attempts += 1
-
+    
 print(f"(попыток:{attempts})") # f-строка
